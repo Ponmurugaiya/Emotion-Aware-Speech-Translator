@@ -1,0 +1,10 @@
+torch
+transformers
+datasets
+soundfile
+librosa
+speechbrain
+pydub
+googletrans==4.0.0-rc1
+vosk
+numpy
