@@ -41,7 +41,7 @@ EmoAI/
 1. **Clone the repository:**
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/Ponmurugaiya/Emotion-Aware-Speech-Translator.git
 cd EmoAI
 ```
 
