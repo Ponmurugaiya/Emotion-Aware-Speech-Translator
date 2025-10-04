@@ -42,7 +42,7 @@ EmoAI/
 
 ```bash
 git clone https://github.com/Ponmurugaiya/Emotion-Aware-Speech-Translator.git
-cd EmoAI
+cd Emotion-Aware-Speech-Translator
 ```
 
 2. **Create a virtual environment:**
